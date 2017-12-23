@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPLearn</string>
+    <string name="username_hint">Enter Username</string>
+    <string name="username_password">Enter Password</string>
+    <string name="done_button">Done</string>
+    <string name="success_text">Hell Yeah</string>
+</resources>

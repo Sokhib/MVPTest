@@ -16,7 +16,7 @@ public class LoginInteractorImpl implements LoginInteractor {
                 listener.onUserNameError();
             else if (TextUtils.isEmpty(password))
                 listener.onPasswordError();
-            else if(userName.equals("admin") && password.equals("admin")){
+            else if(userName.equals("Soh1b") && password.equals("Said")){
                 //delay 2 seconds to see progressBar
                 new Handler().postDelayed(new Runnable() {
                     @Override
